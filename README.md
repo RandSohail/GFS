@@ -41,3 +41,8 @@ I can see all the requests approve the appropriate requests then send the confir
 - As a chef, I can send the confirmation email with the cooking equipment and ingredients needed.
 - As a chef, I can send in the confirmation email arrival and departure time.
 - As a chef, I can send feedback.
+
+ ## Project Plan
+- Start with full design to build a clear version of the project as a whole.
+- Divide the project into phases depending on the priority, dependencies, and time to achieve.
+- Start with a Minimum viable product with a feature that has a high priority.
