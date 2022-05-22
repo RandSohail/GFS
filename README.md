@@ -46,3 +46,6 @@ I can see all the requests approve the appropriate requests then send the confir
 - Start with full design to build a clear version of the project as a whole.
 - Divide the project into phases depending on the priority, dependencies, and time to achieve.
 - Start with a Minimum viable product with a feature that has a high priority.
+
+ ## User Flow Chart
+![](https://i.imgur.com/IO0H0Ce.png)
